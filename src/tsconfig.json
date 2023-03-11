@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "outFile": "../static/script.js",
+        "sourceMap": true
+    }
+}
