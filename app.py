@@ -13,4 +13,4 @@ def home():
     return render_template("index.html", video=getvideos(getchannels(random.choice(searches))))
 
 if __name__ == "__main__":
-    app.run(debug=True, port=3000)
+    app.run(debug=True)
