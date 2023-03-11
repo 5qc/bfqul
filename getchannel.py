@@ -1,7 +1,6 @@
 import requests
 import re
 import json
-import random
 import urllib.parse
 
 def getchannels(search):
